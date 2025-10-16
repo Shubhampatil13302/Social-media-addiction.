@@ -1,2 +1,5 @@
-# Social-media-addiction.
-Analyzed social media addiction in 179 students using BSMAS, with depression, anxiety, FOMO &amp; peer influence as key predictors. Applied regression, Random Forest &amp; XGBoost (with SHAP, PDP) for interpretability. Tools used: Jamovi, Python, R &amp; Excel.
+Understanding Social Media Addiction Using Machine Learning 
+
+This project is part of my research exploring how different psychological and social factors influence social media addiction among undergraduate students. Using the Bergen Social Media Addiction Scale (BSMAS) along with 27 related psychological and social items, I’ve analyzed how aspects like stress, sleep disturbance, cognitive dissonance, sensation seeking, and attachment style relate to online behavior.
+The dataset was collected through a Likert-scale questionnaire from 179 students. After cleaning and preparing the data, I applied several statistical methods and machine learning models — including correlation analysis, multiple and ordinal logistic regression, Random Forest, and XGBoost — to understand and predict the likelihood of addiction.
+The goal of this project is to find meaningful patterns in how people use social media, identify which factors matter the most, and provide insights that could help in promoting healthier online habits.
